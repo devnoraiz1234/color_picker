@@ -1,0 +1,18 @@
+body {
+
+     background: blue;
+
+}
+.group {
+     width: 300px;
+     text-align:center;
+}
+  .pickcolor {
+     width: 200px; 
+     outline: none;
+     border: none;
+     border-radius: 5px;
+     padding: 5px;
+     background: brown;
+     cursor: pointer;
+  }
